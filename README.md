@@ -39,8 +39,14 @@ A IA é utilizada como uma extensão do processo de desenvolvimento, com prompts
   - Spring Web e WebFlux
   - Spring Security
 - Node.js
+  - Express
+  - TypeORM
+  - ejs
 - Python
 - APIs REST e reativas
+- PostgreSQL
+- MySql
+- MongoDB
 
 ### Frontend
 - Angular (v12 a v19)
